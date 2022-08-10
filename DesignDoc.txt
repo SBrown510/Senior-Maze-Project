@@ -1,0 +1,18 @@
+Randomization:
+	For this project I used Rand to randomize the weights within my program. I seeded it to 100
+	which depending on the scenario could give me equal weights in different edges but that doesn't
+	hurt my program. Using this method I was able to create two graph objects instead of work with just
+	one graph because when you see Rand, the values that are given are the same so the graphs have the same
+	values but are different objects to interact with.
+
+Extra tests:
+
+	I was curious of how my base program ran so I added in a couple tests:
+	
+		Horizantal and Vertical ladder: to Run call ./a.out 10 10
+		This show the basic functionality of my program, the program sets
+		all edge weights to 1 and you will see what I call the horizantol and vertical ladders
+		of the base case of my program.
+
+		
+
